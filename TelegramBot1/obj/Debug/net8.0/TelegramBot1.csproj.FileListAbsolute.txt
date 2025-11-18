@@ -1,0 +1,15 @@
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\bin\Debug\net8.0\TelegramBot1.exe
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\bin\Debug\net8.0\TelegramBot1.deps.json
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\bin\Debug\net8.0\TelegramBot1.runtimeconfig.json
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\bin\Debug\net8.0\TelegramBot1.dll
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\bin\Debug\net8.0\TelegramBot1.pdb
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.AssemblyInfoInputs.cache
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.AssemblyInfo.cs
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.csproj.CoreCompileInputs.cache
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.sourcelink.json
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.dll
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\refint\TelegramBot1.dll
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.pdb
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\TelegramBot1.genruntimeconfig.cache
+C:\Users\INTAS-SDyakonov\source\repos\Otus\TelegramBot1\obj\Debug\net8.0\ref\TelegramBot1.dll

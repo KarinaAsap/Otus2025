@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INTAS-SDyakonov\\source\\repos\\Otus\\\u0422\u0440\u0435\u043D\u0430\u0436\u0435\u0440 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28221D16-E387-44F8-9BAB-22CD3C14803D}|\u0422\u0440\u0435\u043D\u0430\u0436\u0435\u0440 3.csproj|c:\\users\\intas-sdyakonov\\source\\repos\\otus\\\u0442\u0440\u0435\u043D\u0430\u0436\u0435\u0440 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28221D16-E387-44F8-9BAB-22CD3C14803D}|\u0422\u0440\u0435\u043D\u0430\u0436\u0435\u0440 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INTAS-SDyakonov\\source\\repos\\Otus\\\u0422\u0440\u0435\u043D\u0430\u0436\u0435\u0440 3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\INTAS-SDyakonov\\source\\repos\\Otus\\\u0422\u0440\u0435\u043D\u0430\u0436\u0435\u0440 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T11:51:39.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\INTAS-SDyakonov\source\repos\Otus\Тренажер 2\bin\Release\Тренажер 2.exe.config
+C:\Users\INTAS-SDyakonov\source\repos\Otus\Тренажер 2\bin\Release\Тренажер 2.exe
+C:\Users\INTAS-SDyakonov\source\repos\Otus\Тренажер 2\bin\Release\Тренажер 2.pdb
+C:\Users\INTAS-SDyakonov\source\repos\Otus\Тренажер 2\obj\Release\Тренажер 2.csproj.AssemblyReference.cache
+C:\Users\INTAS-SDyakonov\source\repos\Otus\Тренажер 2\obj\Release\Тренажер 2.csproj.CoreCompileInputs.cache
+C:\Users\INTAS-SDyakonov\source\repos\Otus\Тренажер 2\obj\Release\Тренажер 2.exe
+C:\Users\INTAS-SDyakonov\source\repos\Otus\Тренажер 2\obj\Release\Тренажер 2.pdb
